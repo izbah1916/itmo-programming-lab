@@ -1,0 +1,28 @@
+{
+  "databaseMetaData": {
+    "clazz": "java.util.LinkedList",
+    "localDateTime": "2025-05-09T17:48:02.453253093",
+    "size": 1
+  },
+  "list": [
+    {
+      "id": 1,
+      "name": "asdfasd",
+      "coordinates": {
+        "x": 234,
+        "y": null
+      },
+      "creationDate": "May 09, 2025",
+      "area": 234,
+      "population": 234,
+      "metersAboveSeaLevel": null,
+      "populationDensity": 23424.0,
+      "agglomeration": 2235,
+      "government": "ANARCHY",
+      "governor": {
+        "height": 2342,
+        "birthday": "Dec 12, 2012"
+      }
+    }
+  ]
+}
